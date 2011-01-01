@@ -30,7 +30,8 @@ gem 'pg'
 #   gem 'webrat'
 # end
 
-gem "jquery-rails"
+gem 'jquery-rails'
+gem 'i18n_generators'
 
 group :development, :test do
   gem 'rspec-rails', '~> 2.0.1'
