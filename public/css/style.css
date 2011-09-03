@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+html, body {
+}
+body {
+  font-size: 100%;
+  font-family: Helvetica, Verdana, Arial, "ヒラギノ角ゴPro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;
+  text-align: center;
+}
+header {
+  margin-top: 50px;
+}
+article {
+  padding: 50px;
+}
+article div span {
+  padding: 0 10px;
+}
+footer {
+  color: #999999;
+}
+p {
+  margin-top: 20px;
+}
